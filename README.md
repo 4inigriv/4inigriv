@@ -6,8 +6,17 @@
 
 🧠 Além disso, aplico algoritmos em projetos de pesquisa voltados para Inteligência Artificial, muitas vezes utilizando o Google Colab para experimentação e análise de dados.
 
+<div>
+  🎉 Tenho um artigo aceito: "Revisão Sistemática sobre Machine Learning Aplicada a Bioacústica utilizando o Método PRISMA"
+  <button>
+    <a href="https://sol.sbc.org.br/index.php/eri-mt/article/view/28074/27884" style="text-decoration: none; color: inherit;">
+      <br>
+      <strong>Leia o artigo completo</strong>
+    </a>
+  </button>
+</div>
 
-<div align="center">
+
   <a href="https://github.com/4inigriv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4inigriv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4inigriv&layout=compact&langs_count=7&theme=dark"/>
