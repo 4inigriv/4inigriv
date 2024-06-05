@@ -29,3 +29,4 @@
  </tr>
 </table>
 
+![GIF animado da Frieren](frieren.gif)
