@@ -1,11 +1,5 @@
 # Olá, eu sou a Virgínia ou Ainígriv
 
-🌱 Atualmente estou focada em estudar JavaScript para expandir minhas habilidades de desenvolvimento web.
-
-🔭 Trabalho atualmente com Python.
-
-🧠 Além disso, aplico algoritmos em projetos de pesquisa voltados para Inteligência Artificial, muitas vezes utilizando o Google Colab para experimentação e análise de dados.
-
 <div>
   🎉 Tenho um artigo aceito: "Revisão Sistemática sobre Machine Learning Aplicada a Bioacústica utilizando o Método PRISMA"
   <button>
@@ -15,6 +9,13 @@
     </a>
   </button>
 </div>
+
+🔭 Trabalho atualmente com Python.
+
+🧠 Além disso, aplico algoritmos em projetos de pesquisa voltados para Inteligência Artificial, muitas vezes utilizando o Google Colab para experimentação e análise de dados.
+
+🌱 Atualmente, estou dedicada ao estudo de JavaScript e ao aprimoramento de minhas habilidades em Python.
+
 
 
   <a href="https://github.com/4inigriv">
