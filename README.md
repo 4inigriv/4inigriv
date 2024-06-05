@@ -6,22 +6,20 @@
 
 🧠 Além disso, aplico algoritmos em projetos de pesquisa voltados para Inteligência Artificial, muitas vezes utilizando o Google Colab para experimentação e análise de dados.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div align="center">
-    <a href="https://github.com/4inigriv">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4inigriv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </a>
-  </div>
-  
-  <div style="display: inline_block">
-    <img align="center" alt="4inirgriv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
-    <img align="center" alt="4inirgriv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      
-    <img align="center" alt="4inirgriv-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-</div>
 
+<div align="center">
+  <a href="https://github.com/4inigriv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4inigriv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4inigriv&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="4inirgriv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="4inirgriv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+  <img align="center" alt="4inirgriv-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    
+</div>
 
 
 <table>
