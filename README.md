@@ -4,13 +4,7 @@
             <img src="frieren image" alt="" style="width: 100%; border: none; max-width: 400px;"/>
         </td>
         <td style="width: 50%; vertical-align: top;">
-            <pre style="font-family: monospace; font-size: 16px; margin: 0; padding: 0;">
-            </pre>
- __   ___          _      _    
- \ \ / (_)_ _ __ _(_)_ _ (_)__ _
-  \ V /| | '_/ _` | | ' \| / _` |
-   \_/ |_|_| \__, |_|_||_|_\__,_|
-             |___/    
+            <p style="font-family: monospace; font-size: 16px; margin: 0; padding: 0;">
                 Virgínia Aguiar
             </p>
             <p style="font-family: monospace; font-size: 16px;">
@@ -35,6 +29,7 @@
                 ├── hobbies<br>
                 │   ├── programming marathon (training) <br>
                 │   ├── art designer in his spare time <br>
+                │   ├── read manga <br>
             </p>
         </td>
     </tr>
