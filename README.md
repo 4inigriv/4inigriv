@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td style="width: 50%;">
-            <img src="" alt="" style="width: 100%; border: none;"/>
+            <img src="frieren image" alt="" style="width: 100%; border: none;"/>
         </td>
         <td style="width: 50%; vertical-align: top;">
             <pre style="font-family: monospace; font-size: 16px; margin: 0; padding: 0;">
