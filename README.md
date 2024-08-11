@@ -4,7 +4,7 @@
             <img src="frieren image" alt="" style="width: 100%; border: none; max-width: 400px;"/>
         </td>
         <td style="width: 50%; vertical-align: top;">
-            <pre style="font-family: monospace; font-size: 16px; margin: 0; padding: 0;"> a imagem ta muito pequena, oq eu faço?
+            <pre style="font-family: monospace; font-size: 16px; margin: 0; padding: 0;">
             </pre>
  __   ___          _      _    
  \ \ / (_)_ _ __ _(_)_ _ (_)__ _
