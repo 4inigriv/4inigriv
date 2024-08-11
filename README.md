@@ -1,41 +1,40 @@
-# Olá, eu sou a Virgínia ou Ainígriv
-
-<div>
-  🎉 Tenho um artigo aceito: "Revisão Sistemática sobre Machine Learning Aplicada a Bioacústica utilizando o Método PRISMA"
-  <button>
-    <a href="https://sol.sbc.org.br/index.php/eri-mt/article/view/28074/27884" style="text-decoration: none; color: inherit;">
-      <br>
-      <strong>Leia o artigo completo</strong>
-    </a>
-  </button>
-</div>
-
-🔭 Trabalho atualmente com Python.
-
-🧠 Além disso, aplico algoritmos em projetos de pesquisa voltados para Inteligência Artificial, muitas vezes utilizando o Google Colab para experimentação e análise de dados.
-
-🌱 Atualmente, estou dedicada ao estudo de JavaScript e ao aprimoramento de minhas habilidades em Python.
-
-
-
-  <a href="https://github.com/4inigriv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4inigriv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4inigriv&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="4inirgriv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="4inirgriv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
-  <img align="center" alt="4inirgriv-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
-</div>
-
-
 <table>
- <tr>
-  <td><a href="mailto:lownialore.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></td>
-  <td><a href="https://medium.com/@lownialore/about"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a></td>
- </tr>
+    <tr>
+        <td style="width: 50%;">
+            <img src="" alt="" style="width: 100%; border: none;"/>
+        </td>
+        <td style="width: 50%; vertical-align: top;">
+            <pre style="font-family: monospace; font-size: 16px; margin: 0; padding: 0;">
+ __   ___          _      _    
+ \ \ / (_)_ _ __ _(_)_ _ (_)__ _
+  \ V /| | '_/ _` | | ' \| / _` |
+   \_/ |_|_| \__, |_|_||_|_\__,_|
+             |___/    
+                Virgínia Aguiar
+            </p>
+            <p style="font-family: monospace; font-size: 16px;">
+                /About_Me<br>
+                ├── bio.txt<br>
+                │   ├── she - brazilian - (pt/br + english) <br>
+                │   ├── computer science undergraduate <br>
+                │   ├── scientific initiation - Computational Bioacoustics Research Unit (CO.BRA) <br>
+                │   ├── researcher with two accepted articles <br>
+                │<br>
+                ├── articles (published) <br>
+                │   ├── <a href="https://sol.sbc.org.br/index.php/eri-mt/article/view/28074/27884" target="_blank">Systematic Review on Machine Learning Applied to Bioacoustics using the PRISMA Method</a><br>
+                │   ├── <a href="https://sol.sbc.org.br/index.php/wcama/article/view/29432/29237" target="_blank">Audio Segmentation to Build Bird Training Datasets</a><br>
+                │<br>
+                ├── languages<br>
+                │   ├── python.py (primary) <br>
+                │<br>
+                ├── learning<br>
+                │   ├── Dart<br>
+                │   ├── JS<br>
+                │<br>
+                ├── hobbies<br>
+                │   ├── programming marathon (training) <br>
+                │   ├── art designer in his spare time <br>
+            </p>
+        </td>
+    </tr>
 </table>
-
