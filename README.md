@@ -18,6 +18,7 @@
                 ├── articles (published) <br>
                 │   ├── <a href="https://sol.sbc.org.br/index.php/eri-mt/article/view/28074" target="_blank">Systematic Review on Machine Learning Applied to Bioacoustics using the PRISMA Method</a><br>
                 │   ├── <a href="https://sol.sbc.org.br/index.php/wcama/article/view/29432" target="_blank">Audio Segmentation to Build Bird Training Datasets</a><br>
+                │   ├── <a href="https://sol.sbc.org.br/index.php/kdmile/article/view/30953" target="_blank">A Comparative Analysis of Clustering and Feature Extraction Methods for the Automated Construction of Bird Species Classification Datasets</a><br>
                 │<br>
                 ├── languages<br>
                 │   ├── python.py (primary) <br>
