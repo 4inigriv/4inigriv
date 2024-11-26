@@ -13,7 +13,7 @@
                 │   ├── she - brazilian - (pt/br + english) <br>
                 │   ├── computer science undergraduate <br>
                 │   ├── scientific initiation - Computational Bioacoustics Research Unit (CO.BRA) <br>
-                │   ├── researcher with two accepted articles <br>
+                │   ├── researcher with three accepted articles <br>
                 │<br>
                 ├── articles (published) <br>
                 │   ├── <a href="https://sol.sbc.org.br/index.php/eri-mt/article/view/28074" target="_blank">Systematic Review on Machine Learning Applied to Bioacoustics using the PRISMA Method</a><br>
