@@ -11,9 +11,10 @@
                 /About_Me<br>
                 ├── bio.txt<br>
                 │   ├── she - brazilian - (pt/br + english) <br>
-                │   ├── computer science undergraduate <br>
-                │   ├── scientific initiation - Computational Bioacoustics Research Unit (CO.BRA) <br>
+                │   ├── computer science undergraduate 2022 - 2026 <br>
+                │   ├── scientific initiation - Computational Bioacoustics Research Unit (CO.BRA) 2022 - 2024 <br>
                 │   ├── researcher with three accepted articles <br>
+                │   ├── Inter at Pantanal Research Institute - 8 months <br>
                 │<br>
                 ├── articles (published) <br>
                 │   ├── <a href="https://sol.sbc.org.br/index.php/eri-mt/article/view/28074" target="_blank">Systematic Review on Machine Learning Applied to Bioacoustics using the PRISMA Method</a><br>
