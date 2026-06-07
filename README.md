@@ -42,19 +42,14 @@
 ```
 
 ---
-
-## 📜 Published Articles
+## 📊 GitHub Stats
 
 <div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=4inigriv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4inigriv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-| # | Title | Year |
-|---|-------|------|
-| 01 | [**Systematic Review on Machine Learning Applied to Bioacoustics using the PRISMA Method**](https://sol.sbc.org.br/index.php/eri-mt/article/view/28074) | 2023 |
-| 02 | [**Audio Segmentation to Build Bird Training Datasets**](https://sol.sbc.org.br/index.php/wcama/article/view/29432) | 2023 |
-| 03 | [**A Comparative Analysis of Clustering and Feature Extraction Methods for the Automated Construction of Bird Species Classification Datasets**](https://sol.sbc.org.br/index.php/kdmile/article/view/30953) | 2024 |
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=4inigriv&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -72,26 +67,25 @@
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
-
-## 📊 GitHub Stats
+## 📜 Published Articles
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=4inigriv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4inigriv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=4inigriv&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+| # | Title | Year |
+|---|-------|------|
+| 01 | [**Systematic Review on Machine Learning Applied to Bioacoustics using the PRISMA Method**](https://sol.sbc.org.br/index.php/eri-mt/article/view/28074) | 2023 |
+| 02 | [**Audio Segmentation to Build Bird Training Datasets**](https://sol.sbc.org.br/index.php/wcama/article/view/29432) | 2023 |
+| 03 | [**A Comparative Analysis of Clustering and Feature Extraction Methods for the Automated Construction of Bird Species Classification Datasets**](https://sol.sbc.org.br/index.php/kdmile/article/view/30953) | 2024 |
+
 </div>
+
+
 
 ---
 
